@@ -1,1 +1,0 @@
-Python is a programming language widely used in artificial intelligence and machine learning applications.
